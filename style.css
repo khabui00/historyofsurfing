@@ -1,0 +1,13 @@
+body {
+  font-family: 'Reggae One', sans-serif;
+  color: yellow;
+  margin: 10px 50px 10px 50px;
+  background-image: url("surfing.jpg");
+}
+h2 {
+  font-family: 'Truculenta', sans-serif;
+}
+img {
+  float: left;
+  margin-left: 200px;
+}
